@@ -71,7 +71,7 @@ I’m constantly learning and experimenting with new technologies through compet
 
 ## 📊 Stats
 
-![Visitor Count](https://profile-counter.glitch.me/boiled-fish/count.svg)
+Vistors: ![Visitor Count](https://profile-counter.glitch.me/boiled-fish/count.svg)
 
 <p align="center">
   <img width="40%" src="https://leetcode.card.workers.dev/?username=boiled-fish&theme=dark&font=source_code_pro&extension=activity&border_radius=10" alt="LeetCode Stats" />
