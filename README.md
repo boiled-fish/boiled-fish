@@ -71,16 +71,23 @@ I’m constantly learning and experimenting with new technologies through compet
 
 ## 📊 Stats
 
-Vistors: ![Visitor Count](https://profile-counter.glitch.me/boiled-fish/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/boiled-fish/count.svg)
 
 <p align="center">
-  <img width="40%" src="https://leetcode.card.workers.dev/?username=boiled-fish&theme=dark&font=source_code_pro&extension=activity&border_radius=10" alt="LeetCode Stats" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=boiled-fish&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" />
+  <!-- First row: LeetCode Stats and Badges -->
+  <img width="45%" src="https://leetcode.card.workers.dev/?username=boiled-fish&theme=dark&font=source_code_pro&extension=activity&border_radius=10" alt="LeetCode Stats" />
+  <img width="45%" src="https://leetcode-badge-showcase.vercel.app/api?username=boiled-fish&theme=dark" alt="LeetCode Badges"/>
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=boiled-fish&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boiled-fish&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact">
+  <!-- Second row: GitHub Stats -->
+  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=boiled-fish&show_icons=true&hide_border=false&show_owner=true&title_color=ff6e96&theme=onedark&layout=compact" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Third row: Streak Stats and Top Languages -->
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=boiled-fish&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" alt="Streak Stats" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boiled-fish&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" alt="Top Languages">
 </p>
 
 <!-- GitHub Activity Graph -->
